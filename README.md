@@ -1,1 +1,8 @@
-# Simulaci-n-de-Filtrado-de-Red-con-Firewall
+# 🔒 Práctica de Firewall: Simulador de Filtrado de IP en Python
+
+Este repositorio contiene un script básico en Python que simula la lógica de un Firewall, evaluando direcciones IP de origen mediante una lista negra para autorizar o denegar el tráfico de red.
+
+## 🚀 Instrucciones de Ejecución
+1. Clona este repositorio o descarga el archivo fuente:
+```bash
+git clone [https://github.com/TU-USUARIO/simulador-firewall-python.git](https://github.com/TU-USUARIO/simulador-firewall-python.git)
